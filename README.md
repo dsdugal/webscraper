@@ -44,5 +44,5 @@ Display options: ```ruby bin/webscraper.rb --help```
 
 #### Roadmap
 ------------
-- [] Develop primary ETL concept
-- [] Develop comprehensive unit tests
+- [x] Develop primary ETL concept
+- [ ] Develop comprehensive unit tests
