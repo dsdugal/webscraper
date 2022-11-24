@@ -5,10 +5,10 @@ Tracking the processing status of different data sources is an essential feature
 
 #### Stack
 ------------
-- IMAGE Linux/MacOS
-- IMAGE [MongoDB](https://www.mongodb.com/)
-- IMAGE [Ruby](https://www.ruby-lang.org/en/)
-- IMAGE [Bundler](https://bundler.io/)
+- Linux/MacOS
+- [MongoDB](https://www.mongodb.com/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Bundler](https://bundler.io/)
 - [WebCrawler](https://github.com/dsdugal/webcrawler)
 
 #### Installation
