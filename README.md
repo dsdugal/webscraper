@@ -39,8 +39,8 @@ use webscraper
 ------------
 Navigate to the project root and execute the **webscraper.rb** script.
 
-Basic run: ```ruby bin/webscraper.rb https://www.google.ca```
-Display options: ```ruby bin/webscraper.rb --help```
+- Basic run: ```ruby bin/webscraper.rb https://www.google.ca```
+- Display options: ```ruby bin/webscraper.rb --help```
 
 #### Roadmap
 ------------
